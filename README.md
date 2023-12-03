@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://pulsezest.com/GitHub/GitHub.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishab Chauhan</h1>
 <h3 align="center">Ctrl + Git + Commit = Magic</h3>
-<img align="right" alt="Coding" width = "400" src=""https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+<img align="right" alt="Coding" width = "400" src=""t">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="techchauhan" /> </p>
 
