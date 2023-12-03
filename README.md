@@ -1,13 +1,17 @@
 [![MasterHead](https://pulsezest.com/GitHub/GitHub.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishab Chauhan</h1>
 <h3 align="center">Ctrl + Git + Commit = Magic</h3>
-<img align="right" alt="Coding" width = "400" src=""t">
+<img align="right" alt="Coding" width = "400" src="https://pulsezest.com/GitHub/codingGif.gif"t">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=techchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="techchauhan">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="techchauhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techchauhan" alt="techchauhan" /></a> </p>
-
-- 🔭 I’m currently working on **School Applicatoin**
+ <p style="font-family: 'Arial', sans-serif; font-size: 24px; text-align: center;">
+  <strong style="text-decoration: underline;">
+    <span style="color: blue; font-style: italic;">techchauhan</span>
+  </strong>
+</p>
+- 🔭 I’m currently working on <strong>Collage Applicaiton</strong>
 
 - 👨‍💻 All of my projects are available at [techchauhan.in](techchauhan.in)
 
